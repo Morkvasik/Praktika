@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../Задание_2/Задание_2.csproj" />
+  <Project Path="../Задание_3/Задание_3.csproj" />
+  <Project Path="../Задание_4/Задание_4.csproj" Id="992f0a09-37ae-4238-88a8-dbc089c0ba6c" />
+  <Project Path="../Задание_5/Задание_5.csproj" Id="d667bfba-0107-4281-b777-a61714a06e60" />
+  <Project Path="../Задание_6/Задание_6.csproj" Id="b64302a2-d886-4539-b6ad-b786ea5f7bb8" />
+  <Project Path="../Задание_7/Задание_7.csproj" Id="ca9cd387-d6ec-403f-b49f-0eaad796d221" />
+  <Project Path="../Задание_8/Задание_8.csproj" Id="a2b6af05-52f1-4d2d-927a-e4893ec0d110" />
+  <Project Path="Задание_1.csproj" />
+</Solution>

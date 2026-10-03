@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\bin\Debug\net10.0\Задание_1.exe
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\bin\Debug\net10.0\Задание_1.deps.json
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\bin\Debug\net10.0\Задание_1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\bin\Debug\net10.0\Задание_1.dll
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\bin\Debug\net10.0\Задание_1.pdb
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.dll
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\refint\Задание_1.dll
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.pdb
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\Задание_1.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\практика\Praktika\Модуль 2\Задание_1\obj\Debug\net10.0\ref\Задание_1.dll
