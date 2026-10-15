@@ -1,0 +1,38 @@
+﻿<Window x:Class="задание_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Текстовый редактор"
+        Height="500" Width="800">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"
+                    Margin="0,0,0,10">
+
+            <Button Content="Открыть"
+        Width="100"
+        Click="Open_Click"/>
+
+            <Button Content="Сохранить"
+        Width="100"
+        Click="Save_Click"/>
+
+        </StackPanel>
+
+        <TextBox x:Name="TextEditor"
+                 Grid.Row="1"
+                 AcceptsReturn="True"
+                 AcceptsTab="True"
+                 TextWrapping="Wrap"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 FontSize="16"
+                 Padding="10"
+                 VerticalContentAlignment="Top"/>
+
+    </Grid>
+</Window>
