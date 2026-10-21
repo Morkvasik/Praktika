@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc647e62b2f26b2206c7" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="Visilitsa_2._0.MainActivity, Visilitsa 2.0">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc647e62b2f26b2206c7" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="Visilitsa_2._0.MainApplication, Visilitsa 2.0" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="Visilitsa 2.0" module-name="Visilitsa 2.0.dll">
+    <type assembly-qualified-name="Visilitsa_2._0.MainActivity, Visilitsa 2.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="visilitsa_2._0.MainActivity" java-key="crc647e62b2f26b2206c7.MainActivity" managed-key="Visilitsa_2._0.MainActivity" partial-assembly-qualified-name="Visilitsa_2._0.MainActivity, Visilitsa 2.0" />
+    <type assembly-qualified-name="Visilitsa_2._0.MainApplication, Visilitsa 2.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="visilitsa_2._0.MainApplication" java-key="crc647e62b2f26b2206c7.MainApplication" managed-key="Visilitsa_2._0.MainApplication" partial-assembly-qualified-name="Visilitsa_2._0.MainApplication, Visilitsa 2.0" />
+  </acw-types>
+</api>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Visilitsa_2._0.MainPage"
+    Title="Виселица"
+    BackgroundColor="#F1F4F9">
+
+    <!-- Стиль кнопок с буквами -->
+    <ContentPage.Resources>
+        <Style x:Key="BukvaStyle" TargetType="Button">
+            <Setter Property="WidthRequest" Value="43" />
+            <Setter Property="HeightRequest" Value="43" />
+            <Setter Property="Padding" Value="0" />
+            <Setter Property="Margin" Value="3" />
+
+            <!-- Синий фон -->
+            <Setter Property="BackgroundColor" Value="#315D9B" />
+
+            <!-- Белая буква -->
+            <Setter Property="TextColor" Value="White" />
+
+            <!-- Закруглённые углы -->
+            <Setter Property="CornerRadius" Value="8" />
+
+            <!-- Размер буквы -->
+            <Setter Property="FontSize" Value="17" />
+
+            <!-- Обводка -->
+            <Setter Property="BorderColor" Value="#244675" />
+            <Setter Property="BorderWidth" Value="1" />
+        </Style>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <!-- Название игры -->
+            <Label
+                Text="ВИСЕЛИЦА"
+                FontSize="30"
+                FontAttributes="Bold"
+                TextColor="#243447"
+                HorizontalOptions="Center" />
+
+            <!-- Вопрос-подсказка -->
+            <Label
+                x:Name="Vopros"
+                Text="Угадай загаданное слово!"
+                FontSize="18"
+                FontAttributes="Bold"
+                TextColor="#315D9B"
+                HorizontalOptions="Center"
+                HorizontalTextAlignment="Center" />
+
+            <!-- Картинка виселицы -->
+            <Image
+                x:Name="Risunok"
+                HeightRequest="220"
+                Aspect="AspectFit"
+                HorizontalOptions="Center" />
+
+            <!-- Загаданное слово -->
+            <Label
+                x:Name="SlovoText"
+                FontSize="28"
+                FontAttributes="Bold"
+                TextColor="#243447"
+                HorizontalOptions="Center"
+                HorizontalTextAlignment="Center" />
+
+            <!-- Количество ошибок -->
+            <Label
+                x:Name="OshibkiText"
+                Text="Ошибки: 0 из 6"
+                FontSize="18"
+                TextColor="#526579"
+                HorizontalOptions="Center" />
+
+            <!-- Сообщение игроку -->
+            <Label
+                x:Name="Soobshenie"
+                Text="Выбирай букву!"
+                FontSize="18"
+                TextColor="#287D53"
+                HorizontalOptions="Center"
+                HorizontalTextAlignment="Center" />
+
+            <!-- Клавиатура -->
+            <FlexLayout
+                x:Name="PoleBukv"
+                Direction="Row"
+                Wrap="Wrap"
+                JustifyContent="Center"
+                AlignItems="Center"
+                AlignContent="Start">
+
+                <Button Text="А" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Б" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="В" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Г" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Д" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Е" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ё" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ж" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="З" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="И" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Й" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="К" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Л" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="М" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Н" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="О" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="П" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Р" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="С" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Т" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="У" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ф" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Х" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ц" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ч" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ш" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Щ" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ъ" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ы" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ь" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Э" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Ю" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+                <Button Text="Я" Clicked="Bukva_Click" Style="{StaticResource BukvaStyle}" />
+
+            </FlexLayout>
+
+            <!-- Новая игра -->
+            <Button
+                Text="Новая игра"
+                FontSize="18"
+                HeightRequest="48"
+                BackgroundColor="#315D9B"
+                TextColor="White"
+                CornerRadius="12"
+                Clicked="NewGame_Click" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="Visilitsa 2.0.app">
+      <EnableCodeSigning>true</EnableCodeSigning>
+      <CodesignSigningKey></CodesignSigningKey>
+      <CodesignEntitlements></CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate></CodesignAllocate>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>false</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>C:\work\Visilitsa\Visilitsa 2.0\Visilitsa 2.0</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

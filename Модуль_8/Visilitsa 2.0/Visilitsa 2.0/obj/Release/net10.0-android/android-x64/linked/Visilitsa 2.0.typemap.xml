@@ -1,0 +1,8 @@
+<api type="release" assembly-name="Visilitsa 2.0" mvid="b796384ae2d540668481d50ab68fd57b">
+  <module assembly-name="Visilitsa 2.0" mvid="b796384ae2d540668481d50ab68fd57b" mvid-bytes="SjiWt9XiZkCEgdUKto/Vew==">
+    <types-scratch>
+      <entry key="crc647e62b2f26b2206c7/MainActivity" java-name="crc647e62b2f26b2206c7/MainActivity" managed-type-name="Visilitsa_2._0.MainActivity" token="33554440" />
+      <entry key="crc647e62b2f26b2206c7/MainApplication" java-name="crc647e62b2f26b2206c7/MainApplication" managed-type-name="Visilitsa_2._0.MainApplication" token="33554441" />
+    </types-scratch>
+  </module>
+</api>

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\Visilitsa\\Visilitsa 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|c:\\work\\visilitsa\\visilitsa 2.0\\visilitsa 2.0\\visilitsa 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|solutionrelative:visilitsa 2.0\\visilitsa 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|c:\\work\\visilitsa\\visilitsa 2.0\\visilitsa 2.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|solutionrelative:visilitsa 2.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|c:\\work\\visilitsa\\visilitsa 2.0\\visilitsa 2.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|solutionrelative:visilitsa 2.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|c:\\work\\visilitsa\\visilitsa 2.0\\visilitsa 2.0\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3DA9A42-E382-37FC-8757-549765502CDA}|Visilitsa 2.0\\Visilitsa 2.0.csproj|solutionrelative:visilitsa 2.0\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visilitsa 2.0.csproj",
+              "DocumentMoniker": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\Visilitsa 2.0.csproj",
+              "RelativeDocumentMoniker": "Visilitsa 2.0\\Visilitsa 2.0.csproj",
+              "ToolTip": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\Visilitsa 2.0.csproj",
+              "RelativeToolTip": "Visilitsa 2.0\\Visilitsa 2.0.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T21:43:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Visilitsa 2.0\\MainPage.xaml.cs",
+              "ToolTip": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\MainPage.xaml.cs",
+              "RelativeToolTip": "Visilitsa 2.0\\MainPage.xaml.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwJ0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:11:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Visilitsa 2.0\\MainPage.xaml",
+              "ToolTip": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\MainPage.xaml",
+              "RelativeToolTip": "Visilitsa 2.0\\MainPage.xaml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T21:10:13.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Visilitsa 2.0\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\work\\Visilitsa\\Visilitsa 2.0\\Visilitsa 2.0\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Visilitsa 2.0\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T21:00:24.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
