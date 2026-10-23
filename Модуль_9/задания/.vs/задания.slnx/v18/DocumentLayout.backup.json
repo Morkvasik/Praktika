@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966C0B50-D61E-4C40-9F6D-CCB02DEC3F9B}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2.csproj|c:\\users\\admin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\praktika\\\u043C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966C0B50-D61E-4C40-9F6D-CCB02DEC3F9B}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BC887-AD1B-4A1B-891E-F5B5E5A35B21}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3.csproj|c:\\users\\admin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\praktika\\\u043C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BC887-AD1B-4A1B-891E-F5B5E5A35B21}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BC887-AD1B-4A1B-891E-F5B5E5A35B21}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3.csproj|c:\\users\\admin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\praktika\\\u043C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{502BC887-AD1B-4A1B-891E-F5B5E5A35B21}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966C0B50-D61E-4C40-9F6D-CCB02DEC3F9B}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2.csproj|c:\\users\\admin\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\praktika\\\u043C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{966C0B50-D61E-4C40-9F6D-CCB02DEC3F9B}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-22T08:43:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAmwF8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:43:07.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-22T08:11:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Praktika\\\u041C\u043E\u0434\u0443\u043B\u044C_9\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435_2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAkwDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:11:40.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
